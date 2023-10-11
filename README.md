@@ -6,7 +6,7 @@ Urban areas face challenges like traffic congestion, air pollution, and carbon e
 
 https://www.researchgate.net/publication/371465311_Sustainable_Mobility_How_to_Gamify_and_Factors_to_Better_Success  
 https://etrr.springeropen.com/articles/10.1186/s12544-022-00567-w  
-https://scholarworks.calstate.edu/downloads/2n49t3917#:~:text=To%20encourage%20users%20to%20participate,the%20popularity%20of%20cartoon%20characters.  
+https://scholarworks.calstate.edu/downloads/2n49t3917#:~:text=To%20encourage%20users%20to%20participate,the%20popularity%20of%20cartoon%20characters  
 https://developers.google.com/maps/documentation/javascript  
 https://github.com/googlemaps/google-maps-services-python/blob/master/googlemaps/roads.py  
 https://developers.google.com/maps/documentation/directions/get-directions#maps_http_directions_brooklyn_queens_transit_departure_time-txt  
