@@ -12,5 +12,16 @@ https://github.com/googlemaps/google-maps-services-python/blob/master/googlemaps
 https://developers.google.com/maps/documentation/directions/get-directions#maps_http_directions_brooklyn_queens_transit_departure_time-txt  
 https://developers.google.com/maps/documentation/embed/get-started  
 https://developers.google.com/earth-engine/tutorials/community/intro-to-python-api  
-https://dime-worldbank.github.io/googletraffic/  
+https://dime-worldbank.github.io/googletraffic/   
+https://developer.here.com/documentation/examples/maps-js  
+https://github.com/dancard32/google-maps-tourist/blob/main/main.py  
+https://github.com/topics/google-maps-geocoding-api  
+https://github.com/bhaskarmac/addresstolatlong/blob/master/index.html  
+https://github.com/tuannguy/FollowThatYelpReviewer/blob/main/routes/index.js  
+https://github.com/JulieH2016/week-7-project1  
+https://developers.google.com/maps/documentation/javascript/examples/event-click-latlng  
+https://googlemaps.github.io/google-maps-services-python/docs/  
+https://towardsdatascience.com/integrating-google-maps-api-using-python-and-javascript-149fdba27b99  
+https://developers.google.com/maps/documentation/maps-static/start  
+
   
